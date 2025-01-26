@@ -24,6 +24,6 @@
 
 - **Языки программирования:** Golang, С#.
 - **Фреймворки:** EF Core, ASP.NET, Gorilla.
-- **Базы данных:** PostgreSQL, MSSQL, MongoDB, Redis.
+- **Базы данных:** PostgreSQL, MongoDB, Redis.
 - **Инструменты и технологии:** Docker, Git, gRPC, ООП, RabbitMQ, и всякое другое.
 - **Опыт:** Более 3 лет разработки.
