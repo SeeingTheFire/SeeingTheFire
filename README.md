@@ -11,7 +11,7 @@
 - Сложные запросы к базе данных.
 - Реализация модулей CRUD.
 
-**Технологии:** .Net 6-8, PostgreSQL, Redis, Masstransit, RabbitMQ.
+**Технологии:** .Net 6-8, PostgreSQL, Redis, KeyDB, gRPC, Masstransit, RabbitMQ, Quartz, AutoMapper.
 
 ### Текон - Инжиниринг
 #### Бэкенд разработчик • Junior разработчик
